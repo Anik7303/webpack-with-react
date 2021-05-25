@@ -1,0 +1,12 @@
+# node packages
+/node_modules
+
+# environment variables
+.env*
+
+# vscode configs
+/.vscode
+
+# production files
+/build
+

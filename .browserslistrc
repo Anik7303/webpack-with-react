@@ -1,0 +1,8 @@
+[development]
+> 5%,
+last 1 version
+
+[production]
+> 0.02%,
+last 10 versions,
+not dead
